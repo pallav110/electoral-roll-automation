@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# Virtual environments
+venv/
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Output files
+downloaded_pdfs/
+*.zip
+download_log.json
+captcha.png
+
+# HTML debug files
+*.html
+
+# Temporary files
+*.tmp
+*.temp
+
+# MinIO
+minio_data/
+
+# Test outputs
+test_output/
